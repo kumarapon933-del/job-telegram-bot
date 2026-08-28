@@ -25,4 +25,4 @@ run: pip install -r requirements.txt
 - name: Run bot
 env:
 BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-run: python bot.py08:33 AM
+run: python bot.py
